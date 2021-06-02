@@ -1,0 +1,16 @@
+categories:
+- conversations
+conversations:
+ - - I'm intersted in coding, can you help me?
+    - sure, I'd prefer learning python makes you easy, as it is simple and understandable
+  - - Where can I find the best learning 
+    - Ok, lets get started. Follow the following web sites where you can find resourceful. 
+    - https://www.geeksforgeeks.org/python-programming-language/ 
+    - https://www.w3schools.com/python/
+  - - ok
+    - First, download python on your system using following site https://www.python.org/downloads/
+    - Next install and add path while installing
+  - - It's done
+    - Now head up to the sites I've provided and start the basics
+  - - Thank you!
+    - You're welcome
